@@ -1,6 +1,8 @@
 # PurE-KDE-Theme
 This repo contains the PurE theme for KDE Plasma 5: Plasma global theme, Plasma style, color schemes, layout for Latte Dock, and more.
 
+![PurE_Demo_Screen](https://user-images.githubusercontent.com/81539176/141725955-a526ff62-b651-4b3e-a523-860d81a10a56.png)
+
 // What is the PurE KDE theme? //
 --
 PurE is a customizations series for the KDE Plasma 5 desktop. It aims to give Plasma users a new, modern, and visually attractive experience while still being useful for daily use. Inspired by a certain futuristic videogame (the namesake of this theme), this visual style mostly uses a variety of blue and blueish hues, similar to the default Breeze Light theme, but with more emphasis on transparency, rounded panels, and bold accent colors (mainly yellow and magenta).
