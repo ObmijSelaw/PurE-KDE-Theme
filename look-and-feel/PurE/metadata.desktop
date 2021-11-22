@@ -10,4 +10,4 @@ X-KDE-PluginInfo-Name=PurE
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=https://gitlab.com/jomada/moe-theme
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-## X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1284573,kns://plasma-themes.knsrc/api.kde-look.org/1284575,kns://aurorae.knsrc/api.kde-look.org/1437785,kns://xcursor.knsrc/api.kde-look.org/1411743,kns://wallpaper.knsrc/api.kde-look.org/1498263
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1643109,kns://plasma-themes.knsrc/api.kde-look.org/1642605
